@@ -362,7 +362,3 @@ plot(t(A))
 
 
 
-
-# refer : http://www.r-bloggers.com/classification-on-the-german-credit-database/
-# https://cran.r-project.org/doc/contrib/Sharma-CreditScoring.pdf
-# https://onlinecourses.science.psu.edu/stat857/node/215
